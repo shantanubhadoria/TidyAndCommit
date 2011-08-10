@@ -181,5 +181,7 @@ See http://dev.perl.org/licenses/ for more information.
 
 File::Spec
 
+Perl::Tidy
+
 =cut
 
